@@ -1,0 +1,36 @@
+nav {
+    background-color: #87CEEB;
+    color: white;
+}
+nav a {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 3rem;
+}
+nav a:hover {
+    color: black;
+}
+
+nav i {
+    font-size: 3rem;
+}
+
+a.nav-link {
+    margin-right: 3rem;
+}
+
+.card {
+    background-color: #87CEEB;
+    color: red;
+    font-size: 1.2rem;
+}
+
+.card-body {
+    background-color:ghostwhite;
+}
+
+.card:hover {
+    background-color: #4d8294;
+    cursor: pointer;
+}
